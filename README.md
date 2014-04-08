@@ -14,7 +14,6 @@ Integrating Changelists
 6. Interactively resolve each file in the pending changelist.
 7. Test the release build.
 8. Submit the pending changelist with the following description:
-
   ```
   Source_Branch_Name -> Target_Branch_Name [CL <source changelist number>]
   <source changelist description>
