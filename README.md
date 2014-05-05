@@ -19,3 +19,12 @@ Integrating Changelists
 Source_Branch_Name -> Target_Branch_Name [CL <source changelist number>]
 <source changelist description>
 ```
+
+Launch URLs
+-----------
+
+|URL Command|Description|
+|-----------|-----------|
+|`DisplayNameDialog`|Displays the name dialog for supported gametypes.|
+|`HideMenuOnMapLoad`||
+|`RoleName=<role>`|Sets the client's role.|
