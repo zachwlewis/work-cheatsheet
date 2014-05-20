@@ -28,3 +28,23 @@ Launch URLs
 |`DisplayNameDialog`|Displays the name dialog for supported gametypes.|
 |`HideMenuOnMapLoad`||
 |`RoleName=<role>`|Sets the client's role.|
+
+Native Script Classes
+---------------------
+
+When declaring a script class as native, it must be implemented in native code. For Actors, start the class with `A`. For Objects, start the class with `U`.
+
+``` java
+/** MyNativePawn.uc */
+class MyNativePawn extends Pawn
+  native;
+```
+
+``` cpp
+IMPLEMENT_CLASS(AMyNativePawn);
+
+void AMyNativePawn::foo()
+{
+  // Native function body.
+}
+```
