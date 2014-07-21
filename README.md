@@ -3,6 +3,12 @@ work-cheatsheet
 
 A cheatsheet for my dang job.
 
+Contents
+--------
+1. [Integrating Changelists](https://github.com/zachwlewis/work-cheatsheet#integrating-changelists)
+2. [Launch URLs](https://github.com/zachwlewis/work-cheatsheet#launch-urls)
+3. [Native Script Classes](https://github.com/zachwlewis/work-cheatsheet#native-script-classes)
+
 Integrating Changelists
 -----------------------
 
