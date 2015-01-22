@@ -6,8 +6,9 @@ A cheatsheet for my dang job.
 Contents
 --------
 1. [Integrating Changelists](https://github.com/zachwlewis/work-cheatsheet#integrating-changelists)
-2. [Launch URLs](https://github.com/zachwlewis/work-cheatsheet#launch-urls)
-3. [Native Script Classes](https://github.com/zachwlewis/work-cheatsheet#native-script-classes)
+2. [Useful Command Line Arguments](https://github.com/zachwlewis/work-cheatsheet#useful-command-line-arguments)
+3. [Launch URLs](https://github.com/zachwlewis/work-cheatsheet#launch-urls)
+4. [Native Script Classes](https://github.com/zachwlewis/work-cheatsheet#native-script-classes)
 
 Integrating Changelists
 -----------------------
@@ -25,6 +26,14 @@ Integrating Changelists
 Source_Branch_Name -> Target_Branch_Name [CL <source changelist number>]
 <source changelist description>
 ```
+
+Useful Command Line Arguments
+----------------------------
+
+|Command|Description|
+|-----------|-----------|
+|`-windowed`|Launches the game windowed|
+|`-log`|Shows the log window.|
 
 Launch URLs
 -----------
